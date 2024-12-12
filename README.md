@@ -1,13 +1,12 @@
 ## About Me
 
 <div>  
-Hello, I'm Yoru. A beginner developer</br>
-I like listening to music in my free time.</br></br>
-
+Hello, I'm Yoru. A beginner developer.</br>
+I enjoy listening to music in my free time.</br></br>
 
 Check out my Discord bot for osu! at <a href="https://hanami.yorunoken.com" target="_blank">hanami.yorunoken</a></br>
-I've also got a personal website at <a href="https://yorunoken.com" target="_blank">yorunoken
-com</a>
+Visit my personal website at <a href="https://yorunoken.com" target="_blank">yorunoken.com</a>
+</div>
 
 ### Places you can find me:
 
@@ -16,7 +15,6 @@ com</a>
   <li><a href="https://twitter.com/ken_yoru" target="_blank">Twitter</a></li>
   <li><a href="https://www.youtube.com/@yorunoken/" target="_blank">YouTube</a></li>
 </ul>
-</div>
 
 [![](https://visitcount.itsvg.in/api?id=yorunoken&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
