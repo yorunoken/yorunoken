@@ -11,8 +11,8 @@ Visit my personal website at <a href="https://yorunoken.com" target="_blank">yor
 ### Places you can find me:
 
 <ul>
-  <li><a href="https://discord.com/users/372343076578131968" target="_blank">Discord</a> (commissions are open)</li>
-  <li><a href="https://twitter.com/ken_yoru" target="_blank">Twitter</a></li>
+  <li><a href="https://discord.com/users/372343076578131968" target="_blank">Discord</a></li>
+  <li><a href="https://twitter.com/_yorunoken" target="_blank">Twitter</a></li>
   <li><a href="https://www.youtube.com/@yorunoken/" target="_blank">YouTube</a></li>
 </ul>
 
