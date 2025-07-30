@@ -1,38 +1,40 @@
+<div align="center">
+
+# Hello, I'm Yoru
+
+*Novice developer*
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/372343076578131968)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_yorunoken)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yorunoken/)
+
+</div>
+
 ## About Me
 
-<div>  
-Hello, I'm Yoru. A beginner developer.</br>
-I enjoy listening to music in my free time.</br></br>
+I've been programming for about 3 years now and have gotten quite impressive projects under my belt. I like playing games and listening to music the most, and I have type 1 diabetetes.
 
-Check out my Discord bot for osu! at <a href="https://hanami.yorunoken.com" target="_blank">hanami.yorunoken</a></br>
-Visit my personal website at <a href="https://yorunoken.com" target="_blank">yorunoken.com</a>
-</div>
+## What I Work With
 
-### Places you can find me:
+```text
+Languages:  TypeScript, Rust, Bash
+Tools:      Git, VS Code, Hetzner
+```
 
-<ul>
-  <li><a href="https://discord.com/users/372343076578131968" target="_blank">Discord</a></li>
-  <li><a href="https://twitter.com/_yorunoken" target="_blank">Twitter</a></li>
-  <li><a href="https://www.youtube.com/@yorunoken/" target="_blank">YouTube</a></li>
-</ul>
-
-[![](https://visitcount.itsvg.in/api?id=yorunoken&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-### My Projects
+## GitHub Stats
 
 <div align="center">
-<a href="https://github.com/YoruNoKen/HanamiBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=HanamiBot&theme=radical"></a>
-<a href="https://github.com/YoruNoKen/gatari.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=gatari.js&theme=radical"></a>
-<a href="https://github.com/YoruNoKen/discord-mass-uploader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=discord-mass-uploader&theme=radical"></a>
-<a href="https://github.com/YoruNoKen/CCTV-Discord-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=CCTV-Discord-Bot&theme=radical"></a>
-<a href="https://github.com/YoruNoKen/fun-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=fun-api&theme=radical"></a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yorunoken&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yorunoken&theme=radical&hide=shell&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yorunoken&theme=radical)
+
 </div>
 
-### GitHub Analytics
+## Get In Touch
 
-<div align="center">
-<a href="https://github.com/YoruNoKen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yorunoken&theme=radical&hide=shell">
-    <img src="https://github-readme-stats.vercel.app/api?username=yorunoken&show_icons=true&theme=radical">
-</a>
+If you want to chat about code, music, or anything else, feel free to reach out on any of the platforms above.
+
 </div>
