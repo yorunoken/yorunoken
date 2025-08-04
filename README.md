@@ -32,9 +32,4 @@ Tools:      Git, VS Code, Hetzner
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yorunoken&theme=radical)
 
 </div>
-
-## Get In Touch
-
-If you want to chat about code, music, or anything else, feel free to reach out on any of the platforms above.
-
 </div>
