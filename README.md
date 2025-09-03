@@ -27,7 +27,5 @@ Tools:      Git, VS Code, Hetzner
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yorunoken&theme=radical&hide=shell&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yorunoken&theme=radical)
-
 </div>
 </div>
