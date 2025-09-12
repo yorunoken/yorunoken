@@ -1,31 +1,18 @@
-<div align="center">
+### hey all! i'm yoru
 
-# Hello, I'm Yoru
+i love listening to music, playing games, and programing random stuff i find interesting  
+i like collecting plushies, figurines and keychains of anime/japanese characters i like  
+trying to navigate through life and complicated feelings. if you have anything you want to talk about, hit me up on <a href="https://discord.com/users/372343076578131968" target="_blank">discord</a>  
+currently studying computer programming, and holy fuck tuition fees are insane
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/372343076578131968)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_yorunoken)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yorunoken/)
-
-</div>
-
-## About Me
-
-I've been programming for about 3 years now and have got some impressive projects under my belt. I like playing games and listening to music the most, and I have type 1 diabetetes.
-
-## What I Work With
-
+some stuff i know:  
 ```text
-Languages:  TypeScript, Rust, Bash
-Tools:      Git, VS Code, Hetzner
+languages:          typescript, rust, bash
+tools:              git, vs code, hetzner
+(human) languages:  turkish, english, japanese (a little)
 ```
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yorunoken&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yorunoken&theme=radical&hide=shell&layout=compact)
-
-</div>
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yorunoken&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=radical&border_color=45475a"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yorunoken&layout=compact&title_color=cba6f7&theme=radical&border_color=45475a"/></a>
 </div>
