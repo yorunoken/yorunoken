@@ -4,6 +4,7 @@ i love listening to music, playing games, and programing random stuff i find int
 i like collecting plushies, figurines and keychains of anime/japanese characters i like  
 trying to navigate through life and complicated feelings. if you have anything you want to talk about, hit me up on <a href="https://discord.com/users/372343076578131968" target="_blank">discord</a>  
 currently studying computer programming, and holy fuck tuition fees are insane
+
 i have a [buymeacoffe](https://buymeacoffee.com/yorunoken) if you'd like to support my dumbass projects
 
 some stuff i know:  
