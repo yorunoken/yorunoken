@@ -15,9 +15,9 @@ tools:              git, vs code, hetzner
 ```
 
 you can find me around the internet on:  
-[discord](https://discord.com/users/372343076578131968)
-[twitter](https://twitter.com/_yorunoken)
-[osu!](https://osu.ppy.sh/users/17279598)
+[discord](https://discord.com/users/372343076578131968), 
+[twitter](https://twitter.com/_yorunoken), 
+[osu!](https://osu.ppy.sh/users/17279598), 
 [youtube](https://www.youtube.com/@yorunoken)
 
 <div>
