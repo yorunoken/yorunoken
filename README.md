@@ -14,12 +14,11 @@ tools:              git, vs code, hetzner
 (human) languages:  turkish, english, japanese (a little)
 ```
 
-you can find me around the internet on:
-
-- [discord](https://discord.com/users/372343076578131968)
-- [twitter](https://twitter.com/_yorunoken)
-- [osu!](https://osu.ppy.sh/users/17279598)
-- [youtube](https://www.youtube.com/@yorunoken)
+you can find me around the internet on:  
+[discord](https://discord.com/users/372343076578131968)  
+[twitter](https://twitter.com/_yorunoken)  
+[osu!](https://osu.ppy.sh/users/17279598)  
+[youtube](https://www.youtube.com/@yorunoken)  
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yorunoken&show_icons=true&custom_title=GitHub+Statistics&theme=radical"/></a>
