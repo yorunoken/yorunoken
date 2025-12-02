@@ -1,4 +1,4 @@
-### hey all! i'm yoru
+### hey all! i'm yorunoken
 
 i love listening to music, playing games (osu!, mostly.), and programing random stuff i find interesting  
 i like collecting plushies, figurines and keychains of anime/japanese characters i like  
