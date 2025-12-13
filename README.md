@@ -15,7 +15,7 @@ you can find me around the internet on:
 
 some stuff i know:  
 ```text
-languages:          typescript, rust, bash
+languages:          typescript, rust, bash, c#
 tools:              git, vs code, hetzner
 (human) languages:  turkish, english, japanese (a little)
 ```
