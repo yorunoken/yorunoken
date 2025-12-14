@@ -16,8 +16,8 @@ you can find me around the internet on:
 some stuff i know:  
 ```text
 languages:          typescript, rust, bash, c#
-tools:              git, vs code, hetzner
-(human) languages:  turkish, english, japanese (a little)
+tools:              git, vs code, hetzner, docker
+(human) languages:  turkish, english
 ```
 
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yorunoken&show_icons=true&custom_title=GitHub+Statistics&theme=radical"/></a>
