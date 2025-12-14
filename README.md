@@ -20,7 +20,6 @@ tools:              git, vs code, hetzner
 (human) languages:  turkish, english, japanese (a little)
 ```
 
-<div>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yorunoken&show_icons=true&custom_title=GitHub+Statistics&theme=radical"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yorunoken&layout=compact&theme=radical"/></a>
-</div>
+
