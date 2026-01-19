@@ -12,7 +12,7 @@ i have a [buymeacoffee](https://buymeacoffee.com/yorunoken) if you'd like to sup
 [discord](https://discord.com/users/372343076578131968) • [twitter](https://twitter.com/_yorunoken) • [osu!](https://osu.ppy.sh/users/17279598) • [youtube](https://www.youtube.com/@yorunoken)
 
 ```text
-languages:          typescript, rust, bash, c#
+languages:          typescript, rust, bash, c#, java
 tools:              git, vs code, hetzner, docker
 (human) languages:  turkish, english
 ```
