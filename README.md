@@ -1,26 +1,25 @@
 ### hey all! i'm yorunoken 👋
 
 Full Stack Developer & Computer Programming Student based in Istanbul.
-I specialize in building scalable web applications using **Next.js** and high-performance tools in **Rust**. 
-Passionate about **Linux (Arch)**, open-source software, and creating tools for the rhythm game community.
+I specialize in building scalable web applications using **Next.js** and high-performance tools in **Rust** and **TypeScript**. 
+Passionate about **Linux**, open-source software, and creating tools for the rhythm game community.
 
-Currently pursuing my degree at **Doğuş University** (Graduating 2026).
+Currently pursuing my degree (Graduating 2026).
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ```text
 languages:      typescript, rust, java, sql, bash
 frontend:       next.js 15, react, tailwind css
 infrastructure: docker, linux (arch/debian), hetzner vps, git
 tools:          vs code, neovim, postman
-
 ```
 
-### 🔭 What I'm Working On
+### What I'm Working On
 
-* Building high-performance web apps with **Next.js 15 (App Router)**.
+* Building high-performance web apps with **Next.js**.
 * Developing **Rust** libraries for data analysis.
 * Managing self-hosted infrastructure and creating custom **Linux** environments.
 
@@ -35,7 +34,5 @@ If you'd like to support my open-source work, you can [buy me a coffee](https://
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="180" align="center" alt="GitHub Stats" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyorunoken%26show_icons%3Dtrue%26custom_title%3DGitHub%2BStatistics%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="325" align="center" alt="Top Language" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyorunoken%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117"/></a>
 </div>
-
-Do you want me to help you set up that **LinkedIn profile** next so it matches this new professional persona?
 
 ```
