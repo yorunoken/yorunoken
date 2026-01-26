@@ -34,5 +34,3 @@ If you'd like to support my open-source work, you can [buy me a coffee](https://
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="180" align="center" alt="GitHub Stats" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyorunoken%26show_icons%3Dtrue%26custom_title%3DGitHub%2BStatistics%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="325" align="center" alt="Top Language" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyorunoken%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117"/></a>
 </div>
-
-```
