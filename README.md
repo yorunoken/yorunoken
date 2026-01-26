@@ -13,7 +13,7 @@ Currently pursuing my degree (Graduating 2026).
 ```text
 languages:      typescript, rust, java, sql, bash
 frontend:       next.js 15, react, tailwind css
-infrastructure: docker, linux (arch/debian), hetzner vps, git
+infrastructure: docker, linux, hetzner vps, git
 tools:          vs code, neovim, postman
 ```
 
