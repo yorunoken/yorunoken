@@ -11,7 +11,7 @@ Currently pursuing my degree (Graduating 2026).
 ### Tech Stack
 
 ```text
-languages:      typescript, rust, java, sql, bash
+languages:      typescript, rust, C#, sql, bash
 frontend:       next.js 15, react, tailwind css
 infrastructure: docker, linux, hetzner vps, git
 tools:          vs code, neovim, postman
