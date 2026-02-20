@@ -17,14 +17,6 @@ infrastructure: docker, linux, hetzner vps, git
 tools:          vs code, neovim, postman
 ```
 
-### What I'm Working On
-
-* Building high-performance web apps with **Next.js**.
-* Developing **Rust** libraries for data analysis.
-* Managing self-hosted infrastructure and creating custom **Linux** environments.
-
----
-
 ### Support My Work
 
 Most of my projects are open-source. If you find them useful, consider supporting my work to help keep the servers running.
