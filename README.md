@@ -13,7 +13,7 @@ Currently pursuing my degree (Graduating 2026).
 ```text
 languages:      typescript, rust, C#, sql, bash
 frontend:       next.js, react, tailwind css
-infrastructure: docker, linux, hetzner vps, git
+infrastructure: docker, linux, VPS, git
 tools:          vs code, neovim, postman
 ```
 
@@ -21,23 +21,7 @@ tools:          vs code, neovim, postman
 
 Most of my projects are open-source. If you find them useful, consider supporting my work to help keep the servers running.
 
-You can **[buy me a coffee](https://buymeacoffee.com/yorunoken)** or use crypto:
-
-| Coin | Network | Address |
-| --- | --- | --- |
-| **SOL** | Solana | `DjMwRM6DYqsnSmTh6HyPApve19RgQfXoZMiy1eq91db` |
-| **USDT** | Tron (TRC20) | `TXFSDrnetheBp6ASQBNWDFmBvehKV8gKZz` |
-| **LTC** | Litecoin | `ltc1qs38qxaxttfxtwkd86fjcxdu7h395vqs9zsjnln` |
----
+You can **[buy me a coffee](https://buymeacoffee.com/yorunoken)** or sponsor me via github.
 
 **find me around the internet:**
 [website](https://yorunoken.com/) • [linkedin](https://www.linkedin.com/in/fatih-fetvaci/) • [discord](https://discord.com/users/372343076578131968) • [osu!](https://osu.ppy.sh/users/17279598)
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card">
-<img height="180" align="center" alt="GitHub Stats" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyorunoken%26show_icons%3Dtrue%26custom_title%3DGitHub%2BStatistics%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
-<img width="325" align="center" alt="Top Language" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyorunoken%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117"/>
-</a>
-</div>
