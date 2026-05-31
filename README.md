@@ -21,7 +21,7 @@ tools:          vs code, neovim, postman
 
 Most of my projects are open-source. If you find them useful, consider supporting my work to help keep the servers running.
 
-You can **[buy me a coffee](https://buymeacoffee.com/yorunoken)** or sponsor me via github.
+You can **[buy me a coffee](https://buymeacoffee.com/yorunoken)**, subscribe on **[patreon](https://patreon.com/yorunoken)** or sponsor me via github.
 
 **find me around the internet:**
 [website](https://yorunoken.com/) • [linkedin](https://www.linkedin.com/in/fatih-fetvaci/) • [discord](https://discord.com/users/372343076578131968) • [osu!](https://osu.ppy.sh/users/17279598)
